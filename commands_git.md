@@ -14,3 +14,7 @@ git commit -m "meaninful msg"
 
 check if there are uncomited, unstage, or untracked 
 
+## tools to check the history and travel in time 
+
+git log is for help 
+git diff and git show is to compare the last and the new changes 
