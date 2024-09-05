@@ -2,13 +2,15 @@
 
 ### Basic routine for commiting
 
-That is bow I save a snapshot/ point in time
+That is bow I save a snapshot/ point in time. Add together files that you want to commit together. 
+...
 
 git add <name of the file>
 git commit -m "meaninful msg"
+...
 
 
-### how to check the status of my files/ directories in my gift project 
+### Check the status of my files and directories 
 
 check if there are uncomited, unstage, or untracked 
 

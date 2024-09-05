@@ -21,4 +21,8 @@ Where you can find the history of your all your commited. The place where you st
 
 It is a temporary stage where you prepare the snapshot. Place where we prepare for commiting. 
 
+- why the staging area is important? 
+
+The staging area is a file, generally contained in your Git directory, that stores information about what will go into your next commit. 
+
 
