@@ -10,6 +10,5 @@ git commit -m "meaninful msg"
 
 ### how to check the status of my files/ directories in my gift project 
 
-check if there are uncomited, unstage, or untracked files 
+check if there are uncomited, unstage, or untracked 
 
-"git status"
