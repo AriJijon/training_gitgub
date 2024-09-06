@@ -24,3 +24,10 @@ git diff and git show is to compare the last and the new changes
 
 Trying to deal with conflicts 
 Problem solved?
+- How create branches?
+
+First chech if you have branches with git brach nameoofthefile
+
+-How to move to one branch to other?
+
+You have to use git checkout nameothefilethatyouwanttogo
