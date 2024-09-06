@@ -31,3 +31,4 @@ First chech if you have branches with git brach nameoofthefile
 -How to move to one branch to other?
 
 You have to use git checkout nameothefilethatyouwanttogo
+
