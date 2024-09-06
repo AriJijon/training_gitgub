@@ -18,3 +18,7 @@ check if there are uncomited, unstage, or untracked
 
 git log is to show the history
 git diff and git show is to compare the last and the new changes 
+
+## Solving conflicts
+
+Trying to deal with conflicts 
