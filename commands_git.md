@@ -16,5 +16,5 @@ check if there are uncomited, unstage, or untracked
 
 ## tools to check the history and travel in time 
 
-git log is for help 
+git log is to show the history
 git diff and git show is to compare the last and the new changes 
