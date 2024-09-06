@@ -18,3 +18,6 @@ check if there are uncomited, unstage, or untracked
 
 git log is for help 
 git diff and git show is to compare the last and the new changes 
+
+
+Hi Changes done by Seoyeon OH 
