@@ -26,3 +26,6 @@ It is a temporary stage where you prepare the snapshot. Place where we prepare f
 The staging area is a file, generally contained in your Git directory, that stores information about what will go into your next commit. 
 
 
+
+Hi This line of text is made by the collaborator Seoyeon Oh
+
